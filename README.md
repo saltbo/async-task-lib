@@ -67,4 +67,4 @@ You should see the message arriving to the process on the second Terminal
 
 ## Authors && Contributors
 
-- [Monky](https://github.com/boboyan)
+- [Ambor](https://github.com/saltbo)
